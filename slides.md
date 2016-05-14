@@ -1,4 +1,4 @@
-# Workshop de GitHub
+# Super Workshop de GitHub
 
 Introdução a sistemas modernos de controlo de revisões
 
